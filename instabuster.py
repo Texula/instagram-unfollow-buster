@@ -38,10 +38,7 @@ def load_json_file(filename):
         return None
 
 
-# ==========================================
-# 3. LOGIC TO EXTRACT USERNAMES
-# ==========================================
-
+##extractinator
 def get_users_i_follow(json_data):
     """Extracts users from following.json"""
     users = set()

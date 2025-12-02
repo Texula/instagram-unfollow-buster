@@ -9,6 +9,14 @@ by Texula
 FOR HELP:
     ❯ python3 instabuster.py -help
 
+!BEFORE YOU BEGIN, TO AVOID GETTING BANNED!                                                 !
+!MAKE SURE YOU REMOVE PEOPLE WHO DON'T FOLLOW BACK AT A STEADY PACE!                        !
+!DO NOT use third-party apps to automate the UNFOLLOWING process                            !
+!(Apps that require access to your instagram account), as this is a major trigger for bans. !
+!Instead, unfollow accounts manually in small batches over a long period to stay within     !
+!Instagram's limits, and use the in-app "Categories" feature to find accounts you interact  !
+!with the least to unfollow first.                                                          !
+
 INSTRUCTIONS:
 1.Go to "Meta Accounts Center"
 2.Go to "Your information and permissions"

@@ -97,9 +97,9 @@ if __name__ == "__main__":
         print(f"\nTotal Following: {len(my_following)}")
         print(f"Total Followers: {len(my_followers)}")
         print(f"Not Following Back: {len(not_following_back)}")
-        print("-" * 30)
+        print("#" * 30)
         print("LIST OF PEOPLE NOT FOLLOWING BACK:")
-        print("-" * 30)
+        print("#" * 30)
 
         for user in sorted(not_following_back):
             print(user)
